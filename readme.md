@@ -1,6 +1,6 @@
 # rust-api-hello-world
 
-Hello World with [Rust](https://www.rust-lang.org) and [Nicke l](http://nickel-org.github.io/).
+Hello World with [Rust](https://www.rust-lang.org) and [Nickel](http://nickel-org.github.io/).
 
 ---
 
