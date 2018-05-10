@@ -7,7 +7,7 @@ fn main() {
 
     server.utilize(router! {
         get "**" => |_req, _res| {
-            "Hello world!ss"
+            "Hello world!"
         }
     });
 
